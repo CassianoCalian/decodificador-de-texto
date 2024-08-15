@@ -2,12 +2,10 @@
 <br>
 <br>
 <div style="display: flex; align-items: center;">
-  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="20px"; />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40px" style="margin-right: 10px;">
   </a>
-</p>
-<h3>Sobre o projeto:<h3>
+  <h3 style="margin: 0;">Sobre o projeto:</h3>
 </div>
   <br>
   <br>
