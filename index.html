@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Decodificador de Texto</title>
+    <link rel="stylesheet" href="/style/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <a>
+        <img
+          class="logoalura"
+          src="/style/img/Vector.png"
+          alt="Logo da empresa"
+        />
+      </a>
+    </header>
+    <main>
+      <section>
+        <textarea class="textarea" cols="41" rows="4">
+Digite seu texto</textarea
+        >
+        <div class="information">
+          <img
+            class="exclamacao"
+            src="/style/img/ponto-de-exclamacao-em-um-circulo.png"
+            alt=""
+          />
+          <p>Apenas letras minúsculas e sem acento</p>
+        </div>
+        <div class="buttons">
+          <button class="btn-encriptar" onclick="btnEncriptar()">
+            Criptografar
+          </button>
+          <button class="btn-descriptar" onclick="btnDesencriptar()">
+            Descriptografar
+          </button>
+        </div>
+      </section>
+      <section class="sectionWhite">
+        <textarea class="mensages" cols="20" rows="10"></textarea>
+        <img src="/style/img/High quality products 1 1.png" alt="" />
+        <button class="btn-copiar" onclick="copiarTexto()">Copiar</button>
+      </section>
+    </main>
+    <script src="/script/script.js"></script>
+  </body>
+</html>
