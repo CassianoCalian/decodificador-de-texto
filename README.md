@@ -29,4 +29,11 @@ O HTML foi utilizado para construir a estrutura da página, assegurando uma base
 
 Este projeto representa um marco importante na minha jornada de aprendizado, consolidando conceitos essenciais e abrindo portas para desenvolvimentos mais avançados. Sinta-se à vontade para explorar o código, contribuir ou simplesmente utilizar o decodificador para suas necessidades!
 </h5>
+<br>
 <h3>Exemplo do funcionamento:</h3>
+<br>
+  <img src="https://github.com/CassianoCalian/decodificador-de-texto/blob/main/readme/print1.PNG?raw=true"/>
+  <br>
+  <img src="https://github.com/CassianoCalian/decodificador-de-texto/blob/main/readme/print1.PNG?raw=true"/>
+  
+
