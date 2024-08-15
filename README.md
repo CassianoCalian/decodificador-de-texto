@@ -3,7 +3,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="20px"; />
   </a>
 </p>
 <h3>Sobre o projeto:<h3>
